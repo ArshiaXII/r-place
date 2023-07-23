@@ -21,6 +21,3 @@ This script is a simple bot that uses the Reddit API to place pixels on r/place.
 
 Please respect the API usage limitations and rules imposed by Reddit. Improper use may result in your Reddit account being suspended or banned. This script is intended for educational purposes, and I am not responsible for any misuse.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
